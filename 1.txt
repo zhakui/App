@@ -1,2 +1,3 @@
 checksum = 504CCDC
 add a line text
+Creating a new branch is quick and simple
