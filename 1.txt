@@ -1,2 +1,0 @@
-checksum = 504CCDC
-add a line text
